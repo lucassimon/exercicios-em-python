@@ -7,3 +7,9 @@ Por exemplo se informarmos "dois mil quinhentos e vinte e três reais e dezoito 
 
 Para Executar:
 python cheque.py
+
+
+O que falta fazer:
+1 - Realizar a impressao das casas decimais a partir de um numero informado
+
+2 - Realizar a impressao de um numero a partir de um texto informado.
